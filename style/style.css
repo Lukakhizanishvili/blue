@@ -40,3 +40,10 @@ body {
 	margin: 130px 0px 40px 500px;
 	font-size: 40px;
 }
+.nav-bar-back{
+	background-color: white;
+    width: 148px;
+    height: 100px;
+    margin: 27px 20px 20px 90px;
+    display: inline-block;
+}
