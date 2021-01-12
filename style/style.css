@@ -41,9 +41,15 @@ body {
 	font-size: 40px;
 }
 .nav-bar-back{
-	background-color: white;
+	background-color: #75B3F9;
+    border: 15px solid white;
     width: 148px;
     height: 100px;
     margin: 27px 20px 20px 90px;
     display: inline-block;
+}
+.nav-title{
+	font-size: 14px;
+	color: white;
+	margin: 23px;
 }
