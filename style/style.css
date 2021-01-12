@@ -8,3 +8,23 @@ body {
 .title{
 	text-align: center;
 }
+.Blue{
+	height: 100%;
+	width: 100%;
+	background-color: #042F5F;
+	border: 4px solid #070068;
+	padding: 2.5%;
+}
+.white-box{
+	height: 100%;
+	width: 100%;
+	background-color: white;
+	border: 4px solid #0071BC;
+	padding: 4%;
+}
+.second-box{
+	width: 100%;
+    height: 35%;
+    background-color: #304A67;
+    border: 4px solid #2267B5
+}
