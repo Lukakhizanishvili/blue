@@ -27,4 +27,11 @@ body {
     height: 35%;
     background-color: #304A67;
     border: 4px solid #2267B5;
+    margin-bottom: 2%;
+}
+.third-box{
+	width: 100%;
+    height: 65%;
+    border: 4px solid #2267B5;
+    background-color: #304A67;
 }
